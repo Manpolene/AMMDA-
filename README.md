@@ -1,0 +1,2 @@
+## About the file
+This document captures the key learnings from University of Bremen, Advanced Mathmatics and data analysis course. Providing a comprehensive overview of various topics in data analysis. Given the dynamic nature of this field, it's important to note that updates, additions, or modifications to the content may be necessary in light of daily developments. The hope is that this humble summary serves as a valuable resource for individuals embarking on their journey in data analysis, fostering a beneficial learning experience for all.
